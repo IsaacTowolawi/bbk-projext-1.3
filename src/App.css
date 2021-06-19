@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+  }
+  
+  body {
+    background-color: rgb(37, 37, 37);
+    background-image: url(/src/components/img/x2.png);
+    background-size: 400px;
+    background-repeat: no-repeat ;
+    background-position:right top;
+    background-attachment: fixed;
+    
+  }
+
+  .todo-app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

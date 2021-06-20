@@ -7,11 +7,6 @@ h1 {
     text-shadow: 0 0 14px violet;
   }
 
-  .complete {
-    text-decoration: line-through;
-    opacity: 0.4;
-  }
-
   .todo-row {
     display: flex;
     justify-content: space-between;
